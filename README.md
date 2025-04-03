@@ -1,2 +1,2 @@
 # Applied-Data-Science-Capstone
-This project is a capstone project for the applide data science course in coursera.
+This project is the capstone project for the Applied Data Science course on Coursera. It integrates key concepts from the course, including data wrangling, exploratory data analysis, visualization, and interactive dashboard development. The project focuses on analyzing SpaceX launch data to identify trends, assess launch success rates, and explore geographic patterns using Python libraries such as Pandas, Folium, Plotly, and Dash. Through this hands-on application, learners demonstrate their ability to extract insights from real-world datasets and build interactive data-driven solutions.
